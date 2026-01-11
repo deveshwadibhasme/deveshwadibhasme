@@ -1,5 +1,5 @@
 # Devesh 👋  
-**Software Engineer | Full-Stack JavaScript**
+**Software Engineer**
 
 I build **practical, maintainable web applications** using modern JavaScript stacks.  
 Focused on **clean backend logic, structured frontend code, and real system understanding** — not just UI demos.
@@ -12,6 +12,8 @@ Focused on **clean backend logic, structured frontend code, and real system unde
 - RESTful APIs using **Node.js & Express**
 - Data-driven apps with **MongoDB & MySQL**
 - End-to-end full-stack projects that actually work together
+- Learning backend deeply with Node Js
+- Also learning Java for enterprise level application 
 
 I value **clarity and correctness** over overengineering.
 
@@ -39,32 +41,10 @@ I value **clarity and correctness** over overengineering.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
----
-
-## 📂 Featured Projects
-
-> Replace these with **real repos**. Fake highlights are embarrassing.
-
-- **Full-Stack CRUD App**  
-  React frontend + Node/Express API + MongoDB  
-  Focus: API design, validation, clean routing
-
-- **Authentication API**  
-  JWT-based auth with protected routes  
-  Focus: security basics, middleware, error handling
-
-- **React Component Library (Mini)**  
-  Reusable components with proper props and state  
-  Focus: structure > styling
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-> Replace `YOUR_USERNAME` with your actual GitHub username.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshwadibhasme&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshwadibhasme&layout=compact)
 
 ---
 
@@ -80,9 +60,8 @@ I value **clarity and correctness** over overengineering.
 ## 📫 Connect
 
 - GitHub: You’re already here  
-- LinkedIn: *(add when you actually use it)*
+- LinkedIn: *https://www.linkedin.com/in/devesh-wadibhasme-220b662ab*
+- Leetcode: *https://leetcode.com/u/deveshwadibhasme/*
 
 ---
 
-> No shortcuts.  
-> Just consistent improvement.
