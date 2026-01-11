@@ -41,10 +41,6 @@ I value **clarity and correctness** over overengineering.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshwadibhasme&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshwadibhasme&layout=compact)
 
 ---
 
