@@ -1,5 +1,5 @@
 # Devesh 👋  
-**Software Engineer**
+**MERN Stack Developer**
 
 I build **practical, maintainable web applications** using modern JavaScript stacks.  
 Focused on **clean backend logic, structured frontend code, and real system understanding** — not just UI demos.
@@ -60,4 +60,8 @@ I value **clarity and correctness** over overengineering.
 - Leetcode: *https://leetcode.com/u/deveshwadibhasme/*
 
 ---
+
+## Projects 
+Vita Plus *https://vita-plus-demo.vercel.app*
+Indian Olympiad School *https://indianolympiadschool.com*
 
