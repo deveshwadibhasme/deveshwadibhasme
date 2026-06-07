@@ -1,8 +1,8 @@
-# Devesh 👋  
+# Devesh 
 **MERN Stack Developer**
 
 I build **practical, maintainable web applications** using modern JavaScript stacks.  
-Focused on **clean backend logic, structured frontend code, and real system understanding** — not just UI demos.
+Focused on **clean backend logic, structured frontend code, and real system understanding** - not just UI demos.
 
 ---
 
@@ -26,14 +26,17 @@ I value **clarity and correctness** over overengineering.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://shields.io/badge/PostgreSQL-3178C6?logo=PostgreSQL&logoColor=FFF&style=flat-square)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
@@ -62,6 +65,6 @@ I value **clarity and correctness** over overengineering.
 ---
 
 ## Projects 
-Vita Plus *https://vita-plus-demo.vercel.app*
-Indian Olympiad School *https://indianolympiadschool.com*
-
+- Vita Plus (Launching Soon) *https://vita-plus-demo.vercel.app*
+- Indian Olympiad School *https://indianolympiadschool.com*
+- Ankur Handicraft *https://ankurhandicraft.com/*
